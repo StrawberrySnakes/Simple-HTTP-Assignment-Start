@@ -1,4 +1,4 @@
-const request = require('request');
+// const request = require('request');
 const text = require('./textResponses.js');
 
 const getHelloJSON = (request, response) => {
