@@ -8,4 +8,4 @@ const getImage = (request, response) => {
   response.end();
 };
 
-module.exports.getImage = getImage;
+module.exports.getImage = getImage; 
